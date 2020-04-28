@@ -2,4 +2,7 @@
 # Three Stages 
  1. Working Three
  2. Staging Area
- 3. Local Repocitory 
+ 3. Local Repocitory
+# Developer should write the code and make any changes in working tree state.
+# After make changes the code added to staging area
+# From staging area code commits to local Repository 
