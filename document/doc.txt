@@ -1,5 +1,0 @@
-1. Git is DVCS
-2. Distributed Version Control System
-3. It doesn't need centralized servers
-4. It have periodic backups.
-5. Developer systems all works as clients
